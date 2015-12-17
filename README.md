@@ -1,5 +1,5 @@
 ***
-Adding/Added missing headers for MINGW GCC compiler [version 5.2.0 updated September 10th 2015]
+Adding/Added missing headers for MINGW GCC compiler [version 5.2.0 updated September 10th 2015] in MinGW-Windows-x64/x32
 ***
 ```
 Credits:
